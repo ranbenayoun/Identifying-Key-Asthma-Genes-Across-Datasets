@@ -74,7 +74,7 @@ All datasets are Bulk RNA-Seq.
 ![KEGG Pathway Enrichment](KEGGpath.png)
 
 **Gene Ontology (GO):**  
-![GO Pathway Enrichment](Gopath.png)
+![GO Pathway Enrichment](GOpath.png)
 
 **Reactome Pathways:**  
 ![Reactome Pathway Enrichment](ReactomePath.png)
@@ -93,13 +93,13 @@ All datasets are Bulk RNA-Seq.
 ### Chemical Interaction Analysis
 
 **Chemical Interactions for 17 Common DEGs:**  
-![Chemical Interactions for 17 DEGs](17deg_Chemical_Interaction.png)
+![Chemical Interactions for 17 DEGs](17deg_Chemical_interaction.png)
 
 - *Interpretation:*  
   The chemical interaction network for the 17 common DEGs is highly convoluted, with many overlapping and indirect relationships. Due to this complexity, it is difficult to draw clear or actionable conclusions about specific chemical influences from this network alone.
 
 **Chemical Interactions for HBD:**  
-![Chemical Interactions for HBD](HBD_chemical_interaction.png)
+![Chemical Interactions for HBD](HBD_Chemical_interactions.png)
 
 - *Interpretation:*  
   The chemical interaction map for **HBD** (Hemoglobin subunit delta) is more focused. This allows for further exploration of potential chemical modulators or drug interactions specifically affecting HBD, which may be relevant for asthma research and therapeutic development.
