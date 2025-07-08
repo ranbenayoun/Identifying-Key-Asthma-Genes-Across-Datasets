@@ -60,7 +60,7 @@ All datasets are Bulk RNA-Seq.
 
 ### Heatmap
 
-![Heatmap of gene expression](heatmap.png)
+![Heatmap of gene expression](images/heatmap.png)
 
 - **Asthma vs Control separation:** The heatmap reveals a clear clustering between Asthma and Control samples, reflecting distinct gene expression profiles.
 - **Similar expression patterns within groups:** Samples within the same condition, including Asthma subgroups (Vitamin D or Albuterol treatment), exhibit similar gene expression patterns, indicating group-specific regulation.
@@ -71,20 +71,20 @@ All datasets are Bulk RNA-Seq.
 ### Pathway Enrichment Analysis
 
 **KEGG Pathways:**  
-![KEGG Pathway Enrichment](KEGGpath.png)
+![KEGG Pathway Enrichment](images/KEGGpath.png)
 
 **Gene Ontology (GO):**  
-![GO Pathway Enrichment](GOpath.png)
+![GO Pathway Enrichment](images/GOpath.png)
 
 **Reactome Pathways:**  
-![Reactome Pathway Enrichment](ReactomePath.png)
+![Reactome Pathway Enrichment](images/ReactomePath.png)
 
 ---
 
 ### Diagnostic Potential
 
 **ROC Curve:**  
-![ROC Curve](ROC_Curve.png)
+![ROC Curve](images/ROC_Curve.png)
 
 - No genes had AUC > 0.7, therefore no diagnostic potential was found.
 
@@ -93,13 +93,13 @@ All datasets are Bulk RNA-Seq.
 ### Chemical Interaction Analysis
 
 **Chemical Interactions for 17 Common DEGs:**  
-![Chemical Interactions for 17 DEGs](17deg_Chemical_interaction.png)
+![Chemical Interactions for 17 DEGs](images/17deg_Chemical_interaction.png)
 
 - *Interpretation:*  
   The chemical interaction network for the 17 common DEGs is highly convoluted, with many overlapping and indirect relationships. Due to this complexity, it is difficult to draw clear or actionable conclusions about specific chemical influences from this network alone.
 
 **Chemical Interactions for HBD:**  
-![Chemical Interactions for HBD](HBD_Chemical_interactions.png)
+![Chemical Interactions for HBD](images/HBD_Chemical_interactions.png)
 
 - *Interpretation:*  
   The chemical interaction map for **HBD** (Hemoglobin subunit delta) is more focused. This allows for further exploration of potential chemical modulators or drug interactions specifically affecting HBD, which may be relevant for asthma research and therapeutic development.
